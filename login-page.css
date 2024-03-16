@@ -1,0 +1,40 @@
+form{
+    text-align: center;
+    border-radius: ;
+   
+}
+button{
+    border-radius: 30px;
+    width: 6.7cm;
+    margin-left: 60px;
+   
+}
+input{
+    width: 6.7cm;
+    height: 1cm;
+    border-radius: 30px;
+    border: 0px solid;
+    padding-left:15px ;
+}
+fieldset{
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: rgb(58, 75, 80);
+}
+h1{
+    color: white;
+    font-family:;
+}
+div{
+    display: flex;
+    margin-left: 60px;
+    margin-bottom: 40px;
+    
+}
+span{
+    display: flex;
+    margin-left: 60px;
+}
+img{
+    margin-top: -7px;
+}
