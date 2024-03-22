@@ -1,40 +1,41 @@
 form{
     text-align: center;
-    border-radius: ;
-   
-}
-button{
-    border-radius: 30px;
-    width: 6.7cm;
-    margin-left: 60px;
-   
-}
-input{
-    width: 6.7cm;
-    height: 1cm;
-    border-radius: 30px;
-    border: 0px solid;
-    padding-left:15px ;
 }
 fieldset{
-    margin-left: 400px;
-    margin-right: 400px;
-    background-color: rgb(58, 75, 80);
-}
-h1{
-    color: white;
-    font-family:;
-}
-div{
-    display: flex;
-    margin-left: 60px;
-    margin-bottom: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 480px;
+    margin-right: 480px;
+    background:linear-gradient(46deg,  #71d7ff 50%, #b8e3e7 50%);
+    border: none;
     
 }
-span{
-    display: flex;
-    margin-left: 60px;
+#section>img{
+    margin-left: 30px;
 }
-img{
-    margin-top: -7px;
+#section-break>img{
+    margin-right: 30px;
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+#section{
+    display: flex;
+}
+#section-break{
+    display: flex;
+    margin-left: 50px;
+}
+input{
+    border-radius: 20px;
+    width: 7cm;
+    border: none;
+    padding-left: 20px;
+    
+}
+button{
+    width: 7cm;
+    border-radius:20px ;
+    height: 1cm;
+    background-color: white;
 }
